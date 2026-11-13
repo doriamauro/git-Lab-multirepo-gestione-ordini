@@ -1,5 +1,6 @@
 """Gestione ordini: primo modulo del laboratorio."""
 
+#lista degli ordini
 ORDINI = []
 
 def aggiungi_ordine(codice, quantita):
